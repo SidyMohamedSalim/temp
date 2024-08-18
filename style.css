@@ -1,0 +1,56 @@
+/* Styles du header */
+header {
+  color: green;
+}
+
+header h1 {
+  font-size: 36px;
+  color: green; /* Couleur du texte du titre */
+  font-weight: bold; /* Ajout du poids de la police */
+}
+
+nav ul li a {
+  color: green;
+  font-weight: bold; /* Modification du poids de la police */
+}
+
+/* Section principale */
+section {
+  padding: 20px;
+}
+
+section h2,
+section h3 {
+  font-size: 28px;
+  color: #333;
+}
+
+section p {
+  font-size: 16px;
+  color: #666;
+}
+
+/* Styles pour la citation */
+blockquote {
+  font-style: italic;
+  color: #555;
+  font-size: 16px; /* Modification de la taille de la police */
+}
+
+figcaption {
+  font-size: 14px;
+  color: #888;
+  font-weight: normal; /* Modification du poids de la police */
+}
+
+ul li a {
+  color: #4caf50;
+  font-size: 16px;
+  font-weight: bold; /* Modification du poids de la police */
+}
+
+/* Styles du footer */
+footer {
+  color: #fff;
+  font-size: 14px; /* Modification de la taille de la police */
+}
